@@ -23,7 +23,8 @@ Aprendendo php primeira aula Variaveis e msgboxes
 
             $tempclasse->Defunto();
             $nome = array("Daniel", "Fernandes", "dos", "Santos");
-            $idade = 3;
+            
+            $idade = 5;
 
             foreach ($nome as $value) {
 
